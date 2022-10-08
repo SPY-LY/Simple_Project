@@ -7,7 +7,8 @@
 
 int main() {
     std::vector<int> v = {1, 2, 3};
+    CoutInt(10);
     CoutVector(v);
-
+    CoutInt(20);
     return 0;
 }
